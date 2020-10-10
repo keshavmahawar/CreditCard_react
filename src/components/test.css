@@ -1,0 +1,9 @@
+.card:first-child{
+    width: 300px;
+    border-radius: 10px;
+    background-color: #ea515a;
+    color: white;
+    box-shadow: gray 20px 20px;
+    margin: 0px auto;
+    text-align: center;
+}
